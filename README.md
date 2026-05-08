@@ -27,9 +27,8 @@ If you use Face ID or Touch ID to lock the app, biometric authentication is
 handled entirely by your device's secure enclave via Apple's LocalAuthentication
 framework. SmartSpent does not store or transmit any biometric data.
 
-If you contact support by email, we use the information you send only to
-respond, troubleshoot, and support your request.
+If you contact support by email, the information you provide will only be used to 
+assist with your inquiry, resolve issues, and provide customer support.
 
-If this privacy policy changes, this page will be updated to reflect the current
-version. Continued use of SmartSpent after an update means you accept the
-revised policy.
+If we update this Privacy Policy, the latest version will be posted on this page. 
+By continuing to use SmartSpent after any changes take effect, you agree to the updated policy.
