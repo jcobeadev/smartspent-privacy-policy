@@ -1,0 +1,1 @@
+# smartspent-privacy-policy
