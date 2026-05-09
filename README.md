@@ -1,35 +1,21 @@
 # Privacy Policy
 
-Privacy for local use, optional iCloud sync, and optional on-device AI features.
+Effective date: May 9, 2026
 
-SmartSpent is designed to work locally on your device by default. Your wallets,
-accounts, and transactions are stored only on your device using on-device storage.
-No financial data leaves your device unless you explicitly enable a feature that
-transfers it.
+SmartSpent is designed for local-first use. Wallets, accounts, and transactions are stored on your device by default.
 
-SmartSpent offers an optional iCloud Sync feature. If you choose to enable it,
-your wallets and transactions are synced across your devices using Apple's iCloud
-and CloudKit infrastructure. This data is governed by
-[Apple's Privacy Policy](https://www.apple.com/legal/privacy/). We do not have
-access to your iCloud data.
+Data leaves your device only when you explicitly use a transfer feature, such as:
+- Optional iCloud Sync (Apple iCloud/CloudKit)
+- Export/share actions you initiate (for example, CSV or JSON export)
 
-SmartSpent may offer optional AI Insights powered by Apple Intelligence. This
-feature runs entirely on your device using Apple's on-device language models
-(FoundationModels framework). No financial data is sent to any external server
-or third-party AI service when using this feature. AI Insights can be disabled
-at any time in Settings → Intelligence.
+If you enable iCloud Sync, synced data is processed through Apple’s iCloud/CloudKit services and governed by [Apple’s Privacy Policy](https://www.apple.com/legal/privacy/).
 
-We do not sell your personal information. We do not use advertising trackers,
-third-party analytics SDKs, or data brokers. We do not collect or have access
-to your financial data.
+SmartSpent may offer optional AI Insights powered by Apple Intelligence. When available, this feature runs on-device and can be disabled in Settings.
 
-If you use Face ID or Touch ID to lock the app, biometric authentication is
-handled entirely by your device's secure enclave via Apple's LocalAuthentication
-framework. SmartSpent does not store or transmit any biometric data.
+If you enable Face ID or Touch ID, biometric authentication is handled by Apple’s LocalAuthentication framework and secure enclave. SmartSpent does not store biometric identifiers.
 
-If you contact support by email, we use the information you send only to
-respond, troubleshoot, and support your request.
+SmartSpent does not sell personal information.
 
-If this privacy policy changes, this page will be updated to reflect the current
-version. Continued use of SmartSpent after an update means you accept the
-revised policy.
+If you contact support, the information you provide is used only to respond and troubleshoot your request.
+
+This policy may be updated from time to time. Continued use of SmartSpent after updates means you accept the revised policy.
